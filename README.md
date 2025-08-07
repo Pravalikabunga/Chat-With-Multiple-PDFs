@@ -42,10 +42,13 @@ This application allows users to upload multiple PDF files and interact with the
    - View the AI's response below the input field
 
 # File Structure
-1. app.py : Main application file
-2. requirements.txt : Python dependencies
-3. .env : Environment variables (create this file)
-4. faiss_index/ - Directory for storing document embeddings
+#### 1. app.py : 
+Main application file
+#### 2. requirements.txt : 
+Python dependencies
+#### 3. .env : 
+Environment variables (create this file)
+#### 4. faiss_index/ - Directory for storing document embeddings
    - index.faiss - FAISS vector store
    - index.pkl - FAISS index metadata
 
