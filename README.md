@@ -21,15 +21,15 @@ This application allows users to upload multiple PDF files and interact with the
 3. Required Python packages (listed in requirements.txt)
 
 # Installation
-### 1. Clone the repository:
+#### 1. Clone the repository:
    git clone https://github.com/Pravalikabunga/Chat-With-Multiple-PDFs.git
    cd Chat-With-Multiple-PDFs
 #### 2. Create and activate a virtual environment:
    python -m venv venv
    .\venv\Scripts\activate  # On Windows
-### 3. Install dependencies:
+#### 3. Install dependencies:
    pip install -r requirements.txt
-### 4. Set up environment variables:
+#### 4. Set up environment variables:
    - Create a .env file in the project root
    - Add your Google API key: GOOGLE_API_KEY=your_google_api_key_here
 
