@@ -25,8 +25,8 @@ This application allows users to upload multiple PDF files and interact with the
    git clone https://github.com/Pravalikabunga/Chat-With-Multiple-PDFs.git
    cd Chat-With-Multiple-PDFs
 #### 2. Create and activate a virtual environment:
-   python -m venv venv
-   .\venv\Scripts\activate  # On Windows
+   - python -m venv venv
+   - .\venv\Scripts\activate  # On Windows
 #### 3. Install dependencies:
    pip install -r requirements.txt
 #### 4. Set up environment variables:
