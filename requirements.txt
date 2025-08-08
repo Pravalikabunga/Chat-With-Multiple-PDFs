@@ -2,7 +2,8 @@ streamlit
 google-generativeai
 python-dotenv
 langchain
+langchain_google_genai
 PyPDF2
 chromadb
 faiss-cpu
-langchain_google_genai
+langchain-community   # <-- 🔥 This is MANDATORY for FAISS support
