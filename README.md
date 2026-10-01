@@ -2,7 +2,7 @@
 This application allows users to upload multiple PDF files and interact with their content using natural language queries. It leverages Google's Gemini AI to provide accurate and contextual responses based on the uploaded documents.
 
 # Demo Link for Project 
-[Demo](https://chat-with-multiple-pdfs-o6rvszfhvhhzzxbhpykp5r.streamlit.app/)
+[Demo link for the project](https://chat-with-multiple-pdfs-o6rvszfhvhhzzxbhpykp5r.streamlit.app/)
 # Features
 1. PDF Processing
    - Upload multiple PDF files
